@@ -1,0 +1,10 @@
+pandas
+seaborn
+tensorflow
+matplotlib
+wordcloud
+scikit-learn
+imaplib2
+PyYAML
+pillow
+ipython
